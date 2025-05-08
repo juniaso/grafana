@@ -1,5 +1,5 @@
 
 
-FROM grafana/grafana: latest
+FROM grafana/grafana:latest
 
 EXPOSE 3000
